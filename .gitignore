@@ -1,2 +1,6 @@
+# Carpetas internas de n8n
+n8n_data/
 .n8n/
+
+# Archivos sensibles
 .env
